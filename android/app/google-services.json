@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322977439289",
+    "project_id": "coin-tracker-bb07f",
+    "storage_bucket": "coin-tracker-bb07f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322977439289:android:eac23613c0bd75a7a337e8",
+        "android_client_info": {
+          "package_name": "com.example.coin_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322977439289-9losuta3thmsradmptgk2lgl5v7gicp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABfzA2LNzQgjVrdm3zycxhzaLdwUTaW50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322977439289-9losuta3thmsradmptgk2lgl5v7gicp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
